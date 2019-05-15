@@ -7,3 +7,8 @@ I am currently working as a PhD student in mathematics at the [University of Hei
 I work in symplectic geometry. My interest concerns the symplectic structure of character varieties.
 
 ### Contact me
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
