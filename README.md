@@ -21,9 +21,9 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 	<input type="text" class="text" name="cf_name" id="name" /></p>
 	<p><label for="email">Email:</label>
 	<input type="text" class="text" name="cf_email" id="email" /></p>
-	<label for="text">Message:</label>
+	<p><label for="text">Message:</label>
 	<textarea class="text" name="cf_message" id="message"></textarea>
-	<input type="submit" class="submit" value="Send" />
+	<input type="submit" class="submit" value="Send" /></p>
 </form>
 
 
