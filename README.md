@@ -24,7 +24,7 @@ In connection to my PhD, I am a member of the research program [GRK 2229 _Asympt
 ## Academic
 
 -SoSe 2019
-  - [Graduate school](http://scgp.stonybrook.edu/archives/27840) on Geometry of Teichmuller spaces
+  - [Graduate school](http://scgp.stonybrook.edu/archives/27840) on Geometry of Teichmuüller spaces
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics of Teichmüller spaces 
   - Seminar: Symplectic topics - Holomorphic curves in dimension 4
   
