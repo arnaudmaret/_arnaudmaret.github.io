@@ -21,12 +21,12 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
 
 -SoSe 2019
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics on Teichmüller spaces 
-  - [Seminar](topics.pdf): Symplectic topics - Holomorphic curves in dimension 4
+  - Seminar: Symplectic topics - Holomorphic curves in dimension 4
   
 -WiSe 2018/19
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
   - [Blockseminar](http://www.groups-and-spaces.kit.edu/downloads/RTG_seminar_05_schedule_rational_homotopy_theory.pdf): Rational homotopy theory
-  - [Seminar]: Symplectic topics - Floer homology
+  - Seminar: Symplectic topics - Floer homology
   - Proseminar: Elementare Differentialgeometrie
 
 ## mathematical.olympiad.ch
