@@ -44,4 +44,4 @@ Some training material I contributed to:
 2. Functional equations 2 - Cauchy equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
 3. Introduction to inequalities: [(fr)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
 
-A [short story](https://science.olympiad.ch/de/aktuell/detail/news/news/tonnerre-de-braess-mesaventure-sur-la-route-des-olympiades/)  I wrote for the anual jornal of the scientific.olympiad.ch about Braess' paradox in game theory.
+A [short story](https://science.olympiad.ch/de/aktuell/detail/news/news/tonnerre-de-braess-mesaventure-sur-la-route-des-olympiades/)  I wrote for the biannual journal of the [science.olympiad.ch](https://science.olympiad.ch/fr/) about Braess' paradox in game theory.
