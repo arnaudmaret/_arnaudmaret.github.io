@@ -8,6 +8,7 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 ## Contact me
 
+<!DOCTYPE>
 <html>
 <head>
 <meta charset="utf-8">
