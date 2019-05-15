@@ -24,6 +24,7 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
   
 -WiSe 2018/19
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
+  - [Blockseminar](http://www.groups-and-spaces.kit.edu/downloads/RTG_seminar_05_schedule_rational_homotopy_theory.pdf): Rational homotopy theory
   - Proseminar: Elementare Differentialgeometrie
 
 ## mathematical.olympiad.ch
