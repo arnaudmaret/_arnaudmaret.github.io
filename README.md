@@ -6,7 +6,16 @@ I am currently working as a PhD student in mathematics at the [University of Hei
 
 I work in symplectic geometry. My interest concerns the symplectic structure of character varieties.
 
-### Contact me
+## Contact me
 
 a followed by last name (at) mathi.uni-heidelberg.de
 
+## mathematical.olympiad.ch
+
+Beside my research, I help in the organisation of the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director.
+
+I have written a few set of notes (available in french or german) including:
+
+1. Introduction to functional equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
+2. Functional equations: Cauchy's equations:
+3. Introduction to inequalities: 
