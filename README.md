@@ -6,9 +6,7 @@ Since September 2018 I have been working as a PhD student in mathematics at the 
 
 I work in symplectic geometry. My interest concerns the symplectic structure of representation varieties.
 
-## Contact
-
-[cotact me](mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Source%20Han%20Sans)
+[Contact me](mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form)
 
 ## Short CV
 
