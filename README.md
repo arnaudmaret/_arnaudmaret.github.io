@@ -17,5 +17,5 @@ Beside my research, I help in the organisation of the [Swiss Mathematical Olympi
 I have written a few set of notes (available in french or german) including:
 
 1. Introduction to functional equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
-2. Functional equations: Cauchy's equations:
-3. Introduction to inequalities: 
+2. Functional equations - Cauchy's equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
+3. Introduction to inequalities: [(fr)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
