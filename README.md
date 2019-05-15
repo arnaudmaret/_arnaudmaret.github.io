@@ -35,7 +35,7 @@ In connection to my PhD, I am a member of the research program [GRK 2229 _Asympt
 
 ## mathematical.olympiad.ch
 
-Beside my research, I work for the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](VSMP-Bulletin.pdf) [(de)](VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how they differ from traditional school mathematics, have a look at [this](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/). 
+Beside my research, I work for the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](VSMP-Bulletin.pdf) [(de)](VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how they differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/)[(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
 
 I have written a few sets of notes including:
 
