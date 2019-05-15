@@ -11,6 +11,11 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 ![Image](envelope.png)
 ![Image](linkedin.png)
 
+<ul style="list-style:none;float:left;margin:6px;padding:0px;">
+			<li style="float:left;margin-right:10px"><a href="mailto:ryanlmcintyre@gmail.com"><img src="https://raw.githubusercontent.com/ryanoasis/email-signature/master/envelope.png" alt="E-mail" /></a></li>
+			<li style="float:left;margin-right:10px"><a href="https://www.linkedin.com/in/ryanlmcintyre"><img src="https://raw.githubusercontent.com/ryanoasis/email-signature/master/linkedin.png" alt="LinkedIn" /></a></li>
+</ul>
+
 ## Short CV
 
 I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My [master thesis](master_thesis.pdf), written under the supervision of [Will Merry](https://www.merry.io/), was concerned with dynamics in low dimensions. Namely the quest of a forcing relation for existence of periodic orbits in surface homeomorphisms.
