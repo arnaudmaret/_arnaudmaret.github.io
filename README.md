@@ -20,7 +20,7 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
 ## Academic
 
 -SoSe 2019
-  - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics on Teichmüller space 
+  - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics on Teichmüller spaces 
   
 -WiSe 2018/19
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
