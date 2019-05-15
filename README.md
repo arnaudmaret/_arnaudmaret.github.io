@@ -9,6 +9,7 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 [Contact me](mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form)
 
 ![Image](envelope.png)
+![Image](linkedin.png)
 
 ## Short CV
 
