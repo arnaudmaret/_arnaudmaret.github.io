@@ -10,4 +10,4 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 amaret (at) mathi.uni-heidelberg.de
 
-<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="menno-van-der-graaf-13138490"><a class="LI-simple-link" href='https://nl.linkedin.com/in/menno-van-der-graaf-13138490?trk=profile-badge'>Menno van der Graaf</a></div>
+<div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="nl_NL" data-type="vertical" data-theme="dark" data-vanity="menno-van-der-graaf-13138490"><a class="LI-simple-link" href='https://www.linkedin.com/in/arnaud-maret-66bb81171/'>Arnaud Maret</a></div>
