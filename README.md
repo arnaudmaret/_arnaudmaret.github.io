@@ -35,11 +35,13 @@ In connection to my PhD, I am a member of the research program [GRK 2229 _Asympt
 
 ## mathematical.olympiad.ch
 
-Beside my research, I help in the organisation of the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, you can read the following article [(fr)](VSMP-Bulletin.pdf) [(de)](VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique.
+Beside my research, I work for the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](VSMP-Bulletin.pdf) [(de)](VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how they differ from traditional school mathematics, have a look at [this](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/). 
 
 I have written a few sets of notes including:
 
 1. Introduction to functional equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
-2. Functional equations - Cauchy's equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
+2. Functional equations 2 - Cauchy equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
 3. Introduction to inequalities: [(fr)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
+
+
 
