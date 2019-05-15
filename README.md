@@ -8,7 +8,7 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 ## Contact
 
-a followed by last name (at) mathi.uni-heidelberg.de
+[cotact me](mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Short CV
 
