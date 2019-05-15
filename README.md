@@ -8,6 +8,20 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 [Contact me](mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form)
 
+<template>
+  <github-button href="https://github.com/ntkme">Follow @ntkme</github-button>
+</template>
+
+<script>
+import GithubButton from 'vue-github-button'
+
+export default {
+  components: {
+    GithubButton
+  }
+}
+</script>
+
 ## Short CV
 
 I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My [master thesis](master_thesis.pdf), written under the supervision of [Will Merry](https://www.merry.io/), was concerned with dynamics in low dimensions. Namely the quest of a forcing relation for existence of periodic orbits in surface homeomorphisms.
