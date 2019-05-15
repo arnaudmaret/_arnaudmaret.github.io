@@ -24,6 +24,7 @@ In connection to my PhD, I am a member of the research program [GRK 2229 _Asympt
 ## Academic
 
 -SoSe 2019
+  - [Graduate school](http://scgp.stonybrook.edu/archives/27840) on Geometry of Teichmuller spaces
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics on Teichmüller spaces 
   - Seminar: Symplectic topics - Holomorphic curves in dimension 4
   
@@ -31,7 +32,7 @@ In connection to my PhD, I am a member of the research program [GRK 2229 _Asympt
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
   - [Blockseminar](http://www.groups-and-spaces.kit.edu/downloads/RTG_seminar_05_schedule_rational_homotopy_theory.pdf): Rational homotopy theory
   - Seminar: Symplectic topics - Floer homology
-  - Proseminar: Elementare Differentialgeometrie
+  - [Summer school](https://sites.google.com/view/equivariantsymplectichomology/) on Equivariant Symplectic Homology
 
 ## mathematical.olympiad.ch
 
