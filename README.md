@@ -1,4 +1,4 @@
-### About me
+## About me
 
 My name is Arnaud.
 
@@ -6,4 +6,4 @@ I am currently working as a PhD student in mathematics at the [University of Hei
 
 I work in symplectic geometry. My interest concerns the symplectic structure of character varieties.
 
-## Contact me
+### Contact me
