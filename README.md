@@ -10,7 +10,7 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 <p>
 <ul style="list-style:none;float:left;margin:6px;padding:0px;">
-<li style="float:left;margin-right:10px"><a href="amaret@mathi.uni-heidelberg.de"><img src="envelope.png" alt="E-mail" /></a></li>
+<li style="float:left;margin-right:10px"><a href="mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form"><img src="envelope.png" alt="E-mail" /></a></li>
 <li style="float:left;margin-right:10px"><a href="https://www.linkedin.com/in/ryanlmcintyre"><img src="https://raw.githubusercontent.com/ryanoasis/email-signature/master/linkedin.png" alt="LinkedIn" /></a></li>
 </ul>
 </p>
