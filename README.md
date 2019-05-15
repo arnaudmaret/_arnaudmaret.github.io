@@ -2,15 +2,16 @@
 
 My name is Arnaud.
 
-Get in touch: <ul style="list-style:none;float:left;margin:6px;padding:0px;">
+Since September 2018 I have been working as a PhD student of mathematics at the [University of Heidelberg](https://www.uni-heidelberg.de/) under the supervison of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/). 
+
+I work in symplectic geometry. My interest concerns the symplectic structure of representation varieties.
+
+Get in touch: 
+<ul style="list-style:none;float:left;margin:6px;padding:0px;">
 <li style="float:left;margin-right:10px"><a href="mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form"><img src="envelope.png" alt="E-mail" /></a></li>
 <li style="float:left;margin-right:10px"><a href="https://www.linkedin.com/in/arnaud-maret-66bb81171/"><img src="linkedin.png" alt="LinkedIn" /></a></li>
 </ul>
 <br>
-
-Since September 2018 I have been working as a PhD student of mathematics at the [University of Heidelberg](https://www.uni-heidelberg.de/) under the supervison of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/). 
-
-I work in symplectic geometry. My interest concerns the symplectic structure of representation varieties.
 
 ## Short CV
 
