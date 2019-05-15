@@ -1,3 +1,12 @@
+## About me
+
+My name is Arnaud.
+
+I am currently working as a PhD student in mathematics at the University of Heidelberg under the supervison of Prof. Peter Albers.
+
+I work in symplectic geometry.
+
+
 ## Welcome to GitHub Pages
 
 blablabla
