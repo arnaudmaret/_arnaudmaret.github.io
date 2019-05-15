@@ -6,7 +6,7 @@ Since September 2018 I have been working as a PhD student of mathematics at the 
 
 I work in symplectic geometry. My interest concerns the symplectic structure of representation varieties.
 
-# Contact 
+### Contact 
 
 <ul style="list-style:none;float:left;margin:6px;padding:0px;">
 <li style="float:left;margin-right:10px"><a href="mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form"><img src="envelope.png" alt="E-mail" /></a></li>
@@ -14,7 +14,7 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 </ul>
 <br>
 
-# Short CV
+### Short CV
 
 I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My [master thesis](master_thesis.pdf), written under the supervision of [Will Merry](https://www.merry.io/), was concerned with dynamics in low dimensions. Namely the quest of a forcing relation for the existence of periodic orbits in surface homeomorphisms.
 
