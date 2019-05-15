@@ -2,8 +2,7 @@
 
 My name is Arnaud.
 
-Get in touch: 
-<ul style="list-style:none;float:left;margin:6px;padding:0px;">
+Get in touch: <ul style="list-style:none;float:left;margin:6px;padding:0px;">
 <li style="float:left;margin-right:10px"><a href="mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form"><img src="envelope.png" alt="E-mail" /></a></li>
 <li style="float:left;margin-right:10px"><a href="https://www.linkedin.com/in/arnaud-maret-66bb81171/"><img src="linkedin.png" alt="LinkedIn" /></a></li>
 </ul>
