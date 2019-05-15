@@ -25,12 +25,5 @@ blabka
     <span>alberto@ajerez.es</span>
 </a>
 
-
-
-
-<a href="https://dribbble.com/shots/2131627-Personal-Portfolio-Site/attachments/388736" target="_blank" class="inspiration">Inspiration: Dribbble</a>
-
-
-
 <!-- Link to my website -->
 <a id="ajerez" href="http://www.ajerez.es/en/" target="_blank"><img src="http://i.imgur.com/VCKJn3X.jpg"/></a>
