@@ -9,7 +9,9 @@ My name is Arnaud.
 </ul>
 <br>
 
-Since September 2018 I have been working as a PhD student in mathematics at the [University of Heidelberg](https://www.uni-heidelberg.de/) under the supervison of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/).
+Since September 2018 I have been working as a PhD student in mathematics at the [University of Heidelberg](https://www.uni-heidelberg.de/) under the supervison of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/). I am a member of the research program [GRK 2229 _Asymptotic Invariants and Limits of Groups and Spaces_](http://www.groups-and-spaces.kit.edu/26.php) and I am also a member of the Young Reasearchers Cluster affiliated with the [Cluster of Excellence STRUCTURES](https://www.thphys.uni-heidelberg.de/~structures/).
+
+
 
 I work in symplectic geometry. My interest concerns the symplectic structure of representation varieties.
 
