@@ -8,21 +8,7 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 [Contact me](mailto:amaret@mathi.uni-heidelberg.de?subject=[GitHub]%20Contact%20form)
 
-<template>
-  <github-button href="https://github.com/ntkme">Follow @ntkme</github-button>
-</template>
 
-<script>
-import GithubButton from 'vue-github-button'
-
-export default {
-  components: {
-    GithubButton
-  }
-}
-</script>
-
-555
 
 ## Short CV
 
@@ -43,7 +29,7 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
 
 ## mathematical.olympiad.ch
 
-Beside my research, I help in the organisation of the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director.
+Beside my research, I help in the organisation of the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what math olympiad are about, you can read the following article [(fr)] [(de)] published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique.
 
 I have written a few set of notes (available in french or german) including:
 
@@ -51,4 +37,4 @@ I have written a few set of notes (available in french or german) including:
 2. Functional equations - Cauchy's equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
 3. Introduction to inequalities: [(fr)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
 
-
+I am always happy to hear a feedback about my work
