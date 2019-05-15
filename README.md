@@ -29,7 +29,7 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
 
 ## mathematical.olympiad.ch
 
-Beside my research, I help in the organisation of the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what math olympiad are about, you can read the following article [(fr)](VSMP-Bulletin.pdf) [(de)](VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique.
+Beside my research, I help in the organisation of the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, you can read the following article [(fr)](VSMP-Bulletin.pdf) [(de)](VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique.
 
 I have written a few set of notes (available in french or german) including:
 
