@@ -8,6 +8,8 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 ### Contact me
 
+amaret (at) mathi.uni-heidelberg.de
+
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
