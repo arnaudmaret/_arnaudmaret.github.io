@@ -12,7 +12,7 @@ a followed by last name (at) mathi.uni-heidelberg.de
 
 ## Short CV
 
-I obtained my bachelor at EPFL in Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My master thesis, written under the supervision of Will Merry, was concerned with dynamics in low dimensions. Namely the quest of a frocing relation for existence of periodic orbits in surface homeomorphisms.
+I obtained my bachelor at EPFL in Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My master thesis, written under the supervision of [Will Merry](https://www.merry.io/), was concerned with dynamics in low dimensions. Namely the quest of a forcing relation for existence of periodic orbits in surface homeomorphisms. The paper can be found [here](https://www.merry.io/student-theses/forcing-relations-for-periodic-orbits-of-surface-homeomorphisms).
 
 ## mathematical.olympiad.ch
 
