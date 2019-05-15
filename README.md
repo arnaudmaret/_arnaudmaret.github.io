@@ -37,4 +37,3 @@ I have written a few set of notes (available in french or german) including:
 2. Functional equations - Cauchy's equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
 3. Introduction to inequalities: [(fr)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
 
-I am always happy to hear a feedback about my work
