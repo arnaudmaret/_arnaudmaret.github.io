@@ -11,10 +11,12 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 ![Image](envelope.png)
 ![Image](linkedin.png)
 
+<div style="float:left; border-left:4px solid #073763; padding-left:20px; margin-left:20px;height:180px">
 <ul style="list-style:none;float:left;margin:6px;padding:0px;">
 			<li style="float:left;margin-right:10px"><a href="mailto:ryanlmcintyre@gmail.com"><img src="https://raw.githubusercontent.com/ryanoasis/email-signature/master/envelope.png" alt="E-mail" /></a></li>
 			<li style="float:left;margin-right:10px"><a href="https://www.linkedin.com/in/ryanlmcintyre"><img src="https://raw.githubusercontent.com/ryanoasis/email-signature/master/linkedin.png" alt="LinkedIn" /></a></li>
 </ul>
+</div>
 
 ## Short CV
 
