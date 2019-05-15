@@ -8,6 +8,8 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 ## Contact me
 
+blabka
+
 <svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <symbol id="icon-paperplane" viewBox="0 0 1024 1024">
