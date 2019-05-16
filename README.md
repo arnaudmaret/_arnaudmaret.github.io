@@ -24,12 +24,12 @@ Extended [CV](cv.pdf) (May 15, 2019).
 
 ## Academic
 
--SoSe 2019
+SoSe 2019
   - [Graduate school](http://scgp.stonybrook.edu/archives/27840) on Geometry of Teichmüller spaces (Simons Center)
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics of Teichmüller spaces 
   - Symplectic topics seminar - Holomorphic curves in dimension 4
   
--WiSe 2018/19
+WiSe 2018/19
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
   - [Blockseminar](http://www.groups-and-spaces.kit.edu/downloads/RTG_seminar_05_schedule_rational_homotopy_theory.pdf): Rational homotopy theory
   - Symplectic topics seminar - Floer homology
