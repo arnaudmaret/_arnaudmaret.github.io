@@ -18,7 +18,7 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
 
 In connection to my PhD, I am a member of the research program [GRK 2229 _Asymptotic Invariants and Limits of Groups and Spaces_](http://www.groups-and-spaces.kit.edu/26.php) and I am also a member of the Young Researchers Cluster affiliated with the [Cluster of Excellence STRUCTURES](https://www.thphys.uni-heidelberg.de/~structures/).
 
-Extended [CV](cv.pdf) (May 15, 2019).
+Extended [CV](cv.pdf) (July 23, 2019).
 
 # Activities
 
