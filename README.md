@@ -25,7 +25,7 @@ Extended [CV](cv.pdf) (May 15, 2019).
 ## Academic
 
 SoSe 2019
-  - [Workshop](https://www.msri.org/workshops/895) Holomorphic Differentials in Mathematics and Physics (MSRI)
+  - [Workshop](https://www.msri.org/workshops/895) on Holomorphic Differentials in Mathematics and Physics (MSRI)
   - [Graduate school](http://scgp.stonybrook.edu/archives/27840) on Geometry of Teichmüller spaces (Simons Center)
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics of Teichmüller spaces 
   - Symplectic topics seminar - Holomorphic curves in dimension 4
