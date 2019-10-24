@@ -14,11 +14,11 @@ I work in symplectic geometry. My interest concerns the symplectic structure of 
 
 ## Short CV
 
-I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My [master thesis](master_thesis.pdf), written under the supervision of [Will Merry](https://www.merry.io/), was concerned with dynamics in low dimensions. Namely the quest of a forcing relation for the existence of periodic orbits in surface homeomorphisms.
+I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My [master thesis](doc/master_thesis.pdf), written under the supervision of [Will Merry](https://www.merry.io/), was concerned with dynamics in low dimensions. Namely the quest of a forcing relation for the existence of periodic orbits in surface homeomorphisms.
 
 In connection to my PhD, I am a member of the research programs [GRK 2229 _Asymptotic Invariants and Limits of Groups and Spaces_](http://www.groups-and-spaces.kit.edu/26.php) and an associate member of [SFB/TRR 191 - Symplectic Structures in Geometry, Algebra and Dynamics](http://www.mi.uni-koeln.de/CRC-TRR191/). I am also a member of the Young Researchers Cluster affiliated with the [Cluster of Excellence STRUCTURES](https://www.thphys.uni-heidelberg.de/~structures/).
 
-Extended [CV](cv.pdf) (July 23, 2019).
+Extended [CV](doc/cv.pdf) (July 23, 2019).
 
 # Activities
 
@@ -45,7 +45,7 @@ WiSe 2018/19
 
 ## mathematical.olympiad.ch
 
-Beside my research, I work for the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](VSMP-Bulletin.pdf) [(de)](VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
+Beside my research, I work for the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](doc/VSMP-Bulletin.pdf) [(de)](doc/VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
 
 Some training material I contributed to:
 
