@@ -18,11 +18,19 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
 
 In connection to my PhD, I am a member of the research programs [GRK 2229 _Asymptotic Invariants and Limits of Groups and Spaces_](http://www.groups-and-spaces.kit.edu/26.php) and an associate member of [SFB/TRR 191 - Symplectic Structures in Geometry, Algebra and Dynamics](http://www.mi.uni-koeln.de/CRC-TRR191/). I am also a member of the Young Researchers Cluster affiliated with the [Cluster of Excellence STRUCTURES](https://www.thphys.uni-heidelberg.de/~structures/).
 
-Extended [CV](doc/cv.pdf) (October 24, 2019).
+Extended [CV](doc/cv.pdf) (June 29, 2020).
 
 # Activities
 
 ## Academic
+
+
+SoSe 2020 (surviving quarantine)
+  
+  - Seminar: Geometric Hydrodynamics meets Dynamical Data Analysis (see Moodle page)
+  - Symplectic topics seminar - h-principles
+  - [Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory (postponed to October 2020)
+  - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (postponed to March 2021)
 
 WiSe 2019/20
   
