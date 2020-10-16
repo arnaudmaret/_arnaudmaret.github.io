@@ -18,7 +18,7 @@ I obtained my bachelor at EPFL Lausanne in 2016 and completed my master at ETH i
 
 In connection to my PhD, I am a member of the research programs [GRK 2229 _Asymptotic Invariants and Limits of Groups and Spaces_](http://www.groups-and-spaces.kit.edu/26.php) and an associate member of [SFB/TRR 191 - Symplectic Structures in Geometry, Algebra and Dynamics](http://www.mi.uni-koeln.de/CRC-TRR191/). I am also a member of the Young Researchers Cluster affiliated with the [Cluster of Excellence STRUCTURES](https://www.thphys.uni-heidelberg.de/~structures/).
 
-Extended [CV](doc/cv.pdf) (June 29, 2020).
+Extended [CV](doc/cv.pdf) (October 16, 2020).
 
 # Activities
 
