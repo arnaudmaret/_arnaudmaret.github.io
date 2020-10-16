@@ -68,7 +68,7 @@ My favourite Olympiad topic is algebra. I have contributed to various teaching m
 1. Introduction to functional equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
 2. Functional equations 2 - Cauchy equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
 3. Introduction to inequalities: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
-4. Introduction to sequences: 
+4. Introduction to sequences: [(fr)](doc/fr_suites.pdf)
 
 Some of my own problems used at international level:
 
