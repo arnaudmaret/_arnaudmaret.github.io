@@ -24,6 +24,12 @@ Extended [CV](doc/cv.pdf) (October 16, 2020).
 
 ## Academic
 
+WiSe 2020
+
+  - Seminar: Higgs bundles
+  - Symplectic topics seminar - Sub-Riemannian geometry 
+  - [Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
+  - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
 
 SoSe 2020 (surviving quarantine)
   
@@ -53,12 +59,13 @@ WiSe 2018/19
 
 ## mathematical.olympiad.ch
 
-Beside my research, I work for the [Swiss Mathematical Olympiad](https://imosuisse.ch/index.php/fr/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](doc/VSMP-Bulletin.pdf) [(de)](doc/VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
+Beside my research, I work for the [Swiss Mathematical Olympiad](https://mathematical.olympiad.ch/en/) as academic director. If you wonder what [math olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](doc/VSMP-Bulletin.pdf) [(de)](doc/VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
 
 Some training material I contributed to:
 
-1. Introduction to functional equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
-2. Functional equations 2 - Cauchy equations: [(fr)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
-3. Introduction to inequalities: [(fr)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://imosuisse.ch/smo/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
+1. Introduction to functional equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
+2. Functional equations 2 - Cauchy equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
+3. Introduction to inequalities: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
+4. Introduction to sequences: 
 
 A [short story](https://science.olympiad.ch/de/aktuell/detail/news/news/tonnerre-de-braess-mesaventure-sur-la-route-des-olympiades/)  I wrote for the biannual journal of the [science.olympiad.ch](https://science.olympiad.ch/fr/) about Braess' paradox in game theory.
